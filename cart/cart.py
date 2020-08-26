@@ -29,3 +29,4 @@ class Cart(object):
         if product_id in self.cart:
             del self.cart[producrt_id]
             self.save()
+            
