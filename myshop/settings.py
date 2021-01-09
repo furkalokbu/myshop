@@ -81,9 +81,9 @@ DATABASES = {
     'default': {
         # 'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'myshop_dev',
-        'USER': 'postgres',
-        'PASSWORD': 'postgres',
+        'NAME': 'django',
+        'USER': 'django',
+        'PASSWORD': '54a3d6ae9c345582ec3232b44ebb5b0f',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
